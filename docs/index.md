@@ -1,7 +1,3 @@
 DSF 2024 Spring Test Database
 
-More text ehre
-
-text
-
-text
+This site was set up to test the versitility of GitHub for potential other open source projects.
